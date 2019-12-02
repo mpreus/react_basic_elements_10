@@ -43,7 +43,7 @@ let newPeople = people.map(p =>  		/* for each person new 'div' element: */
 /* new 'div' elements to array: */
 elements.push(newPeople);
 
-/* render the whole array: */
+/* render header and the whole array: */
 ReactDOM.render(
     <React.Fragment>
 	    <h1>Meet our new staff:</h1>
