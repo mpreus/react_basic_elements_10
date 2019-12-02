@@ -1,0 +1,3 @@
+Lists a row of people with pictures representing them taken from external internet site.
+
+The settings used for this project are suitable for development only and very convenient for learning because they use in-browser babel compiler. The project was verified using http-server.
